@@ -1,11 +1,8 @@
 import time
 import pprint
-from actions import Login, ScrapeLeaguesAndGames
+from actions import Login, ScrapeLeaguesAndGamesLIVE, ScrapeLeaguesAndGamesStraight
 from selenium_handler import StrikerdotHandler
-from strikerdot_models import CreateBasicModelsFromRawData_Stikerdot
-
-
-
+from strikerdot_models import CreateBasicModelsFromLiveRawData_Stikerdot, CreateBasicModelsFromStraightRawData_Stikerdot
 
 
 def Scrape(handler):
@@ -13,10 +10,10 @@ def Scrape(handler):
     print("\n[*] Action - Scraping...")
            
     # Scrape the Football Leagues and there games.
-    data = handler.actions['ScrapeLeaguesAndGames'].invoke()
+    data = handler.actions['ScrapeLeaguesAndGamesLIVE'].invoke()
     
     # Using the scraped data begin to generate objects and fill them with information
-    leagues = CreateBasicModelsFromRawData_Stikerdot(data)
+    leagues = CreateBasicModelsFromLiveRawData_Stikerdot(data)
     
     print (leagues)
     for league in leagues:
@@ -56,9 +53,8 @@ def CalculateTime(last_time):
 
 
 
-def CreateHandler():
-
-   
+def CreateHandler(redirect = False):
+    
     # Create a browser
     handler = StrikerdotHandler()
     
@@ -67,7 +63,7 @@ def CreateHandler():
     handler.add_action(Login)
     # Nothing has happened yet
     
-    handler.login()
+    handler.login(redirect)
         
     if not handler.is_logged_in:
         print ("[-] Failed.")
@@ -79,7 +75,7 @@ def CreateHandler():
 def LiveBetMain():
     
     handler = CreateHandler()
-    handler.add_action(ScrapeLeaguesAndGames)
+    handler.add_action(ScrapeLeaguesAndGamesLIVE)
     
     update_time = 30 # Update every seconds
     time_left = 0
@@ -103,20 +99,21 @@ def LiveBetMain():
 
 def StraightBetMain():
     
-    # Create Stickerdot Handler
+    # Create Stikerdot Handler
     handler = CreateHandler()
+    handler.add_action(ScrapeLeaguesAndGamesStraight)
     
-    # Add actions 
+    time.sleep(10) 
+    raw_data = handler.actions["ScrapeLeaguesAndGamesStraight"].invoke()
     
-    # Action - Login
+    # Process raw data into model
+    games = CreateBasicModelsFromStraightRawData_Stikerdot(raw_data)
     
-    # Action - Scrape data
-  
-  
-
-
-
+    for game in games:
+        print (game)
+    
+    
 
 if __name__ == '__main__':
-    LiveBetMain()
-    #StraightBetMain()
+    #LiveBetMain()
+    StraightBetMain()

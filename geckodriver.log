@@ -3096,3 +3096,755 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
 1605043361585	Marionette	INFO	Listening on port 53326
 1605043361725	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/listener.js, line 1314: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1314: TypeError: can't access dead object
+JavaScript error: chrome://marionette/content/listener.js, line 1314: TypeError: can't access dead object
+1605046674891	Marionette	INFO	Stopped listening on port 53326
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605047407459	geckodriver	INFO	Listening on 127.0.0.1:53715
+1605047410510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilezGQDSl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605047411964	Marionette	INFO	Listening on port 53724
+1605047412061	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/less.js, line 19: InvalidStateError: XMLHttpRequest has an invalid context.
+1605047533938	geckodriver	INFO	Listening on 127.0.0.1:53809
+1605047537011	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilemtaKk6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605047538421	Marionette	INFO	Listening on port 53817
+1605047538559	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+1605048144956	geckodriver	INFO	Listening on 127.0.0.1:53973
+1605048148053	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilexPrmkr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605048149487	Marionette	INFO	Listening on port 53981
+1605048149610	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605048152236, line 13: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605048152236, line 13: ReferenceError: $ is not defined
+1605048233454	geckodriver	INFO	Listening on 127.0.0.1:54068
+1605048236547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileTMYl90"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605048237962	Marionette	INFO	Listening on port 54076
+1605048238096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605049040958	geckodriver	INFO	Listening on 127.0.0.1:54225
+1605049044026	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileVdoL3f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605049045626	Marionette	INFO	Listening on port 54236
+1605049046074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605049280945	geckodriver	INFO	Listening on 127.0.0.1:54326
+1605049284037	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileI7TK23"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605049285434	Marionette	INFO	Listening on port 54334
+1605049285586	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605049288539, line 13: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605049290158, line 13: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605049290158, line 13: ReferenceError: $ is not defined
+1605049381447	geckodriver	INFO	Listening on 127.0.0.1:54432
+1605049384511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileYpI8HX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605049385927	Marionette	INFO	Listening on port 54440
+1605049386053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/message
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/http
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: language/language
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: core/class
+http://requirejs.org/docs/errors.html#scripterror
+1605049691137	geckodriver	INFO	Listening on 127.0.0.1:54534
+1605049694186	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileJ4gLkR"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605049695617	Marionette	INFO	Listening on port 54542
+1605049695737	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605049892142	geckodriver	INFO	Listening on 127.0.0.1:54634
+1605049895215	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilevcinLb"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605049896639	Marionette	INFO	Listening on port 54642
+1605049896765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605049899744, line 13: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605049901579, line 13: ReferenceError: $ is not defined
+1605049930874	Marionette	INFO	Stopped listening on port 54642
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605050009650	geckodriver	INFO	Listening on 127.0.0.1:54720
+1605050012728	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileXmrD07"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605050014273	Marionette	INFO	Listening on port 54728
+1605050014784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605050017427, line 13: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605050019235, line 13: ReferenceError: $ is not defined
+1605050023634	geckodriver	INFO	Listening on 127.0.0.1:54816
+1605050026733	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileg3UFIr"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605050028177	Marionette	INFO	Listening on port 54824
+1605050028277	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605050289653	geckodriver	INFO	Listening on 127.0.0.1:54906
+1605050292720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileDn1282"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605050294220	Marionette	INFO	Listening on port 54914
+1605050294268	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605050382639	geckodriver	INFO	Listening on 127.0.0.1:54998
+1605050385742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileu7aeKl"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605050387170	Marionette	INFO	Listening on port 55006
+1605050387291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605050526177	geckodriver	INFO	Listening on 127.0.0.1:55097
+1605050529265	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileDfhnbC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605050530703	Marionette	INFO	Listening on port 55105
+1605050530817	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605050778651	geckodriver	INFO	Listening on 127.0.0.1:55198
+1605050781724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofiledPBG5C"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605050783180	Marionette	INFO	Listening on port 55206
+1605050783272	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605050785953, line 13: ReferenceError: $ is not defined
+1605050852678	geckodriver	INFO	Listening on 127.0.0.1:55304
+1605050855776	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofiletoAAQc"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605050857271	Marionette	INFO	Listening on port 55312
+1605050857316	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/http
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: language/language
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/message
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605050861646, line 13: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605050861646, line 13: ReferenceError: $ is not defined
+1605050887829	Marionette	INFO	Stopped listening on port 55312
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605050944673	geckodriver	INFO	Listening on 127.0.0.1:55393
+1605050947769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilekMkbfK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605050949156	Marionette	INFO	Listening on port 55401
+1605050949320	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+JavaScript warning: https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914, line 6: Script terminated by timeout at:
+lc@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:13132
+Le@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:31750
+l.na/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:67054
+ee/</<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:27281
+be/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:26826
+Gd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:23810
+be@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:27128
+ee/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:27254
+Gd/<@https://www.googletagservices.com/activeview/js/current/osd_listener.js?cache=r20110914:6:23855
+
+JavaScript error: , line 0: AbortError: The fetching process for the media resource was aborted by the user agent at the user's request.
+JavaScript error: https://ad-cdn.technoratimedia.com/html/usersync.html?src=prebid_prebid_4.12.0, line 149: SecurityError: The operation is insecure.
+JavaScript error: https://ad-cdn.technoratimedia.com/html/usersync.html?src=prebid_prebid_4.12.0, line 149: SecurityError: The operation is insecure.
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=2662444e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=2662444e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=2662444e800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=266191f8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=266191f8800 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=266191f4c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=266191f4c00 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=266191f6000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=266191f6000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=266191f6000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+[Child 7656, MediaDecoderStateMachine #1] WARNING: Decoder=266191f6000 Decode error: NS_ERROR_DOM_MEDIA_FATAL_ERR (0x806e0005) - RefPtr<MediaSourceTrackDemuxer::SamplesPromise> __cdecl mozilla::MediaSourceTrackDemuxer::DoGetSamples(int32_t): manager is detached.: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp, line 3471
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1605051371712	geckodriver	INFO	Listening on 127.0.0.1:55880
+1605051374785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilew03y0O"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051376147	Marionette	INFO	Listening on port 55888
+1605051376321	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051414673	geckodriver	INFO	Listening on 127.0.0.1:55983
+1605051417771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileJGvHLA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051419149	Marionette	INFO	Listening on port 55993
+1605051419326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051455168	geckodriver	INFO	Listening on 127.0.0.1:56056
+1605051458250	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofile5HXbw7"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051459707	Marionette	INFO	Listening on port 56064
+1605051459787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051503687	geckodriver	INFO	Listening on 127.0.0.1:56144
+1605051506781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilebf16oO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051508182	Marionette	INFO	Listening on port 56152
+1605051508334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605051510674, line 13: ReferenceError: $ is not defined
+1605051571175	geckodriver	INFO	Listening on 127.0.0.1:56232
+1605051574260	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileo2E6HT"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051575660	Marionette	INFO	Listening on port 56240
+1605051575798	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051612171	geckodriver	INFO	Listening on 127.0.0.1:56314
+1605051615233	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileyvJFki"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051616644	Marionette	INFO	Listening on port 56322
+1605051616785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051681670	geckodriver	INFO	Listening on 127.0.0.1:56391
+1605051684741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileqUBb3A"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051686220	Marionette	INFO	Listening on port 56399
+1605051686296	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051725187	geckodriver	INFO	Listening on 127.0.0.1:56473
+1605051728291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileGnX9J0"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051729719	Marionette	INFO	Listening on port 56481
+1605051729842	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051773191	geckodriver	INFO	Listening on 127.0.0.1:56563
+1605051776293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileqR83ow"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051777749	Marionette	INFO	Listening on port 56571
+1605051777837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051829194	geckodriver	INFO	Listening on 127.0.0.1:56657
+1605051832280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileU2WhYj"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051833687	Marionette	INFO	Listening on port 56665
+1605051833819	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605051874186	geckodriver	INFO	Listening on 127.0.0.1:56734
+1605051877264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofile26ERod"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605051878678	Marionette	INFO	Listening on port 56742
+1605051878805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605052269687	geckodriver	INFO	Listening on 127.0.0.1:56842
+1605052272762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileOuFEpK"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605052274238	Marionette	INFO	Listening on port 56851
+1605052274306	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605052297187	geckodriver	INFO	Listening on 127.0.0.1:56932
+1605052300256	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileAflCaL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605052301695	Marionette	INFO	Listening on port 56940
+1605052301802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605052412187	geckodriver	INFO	Listening on 127.0.0.1:57015
+1605052415288	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileBUrd5I"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605052416729	Marionette	INFO	Listening on port 57023
+1605052416831	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605052419095, line 13: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605052420711, line 13: ReferenceError: $ is not defined
+1605052445182	geckodriver	INFO	Listening on 127.0.0.1:57108
+1605052448272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilerYVOV2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605052449703	Marionette	INFO	Listening on port 57116
+1605052449823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605052517681	geckodriver	INFO	Listening on 127.0.0.1:57194
+1605052520762	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilea9uwci"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605052522179	Marionette	INFO	Listening on port 57202
+1605052522311	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605052689188	geckodriver	INFO	Listening on 127.0.0.1:57279
+1605052692272	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileEYxwJL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605052693801	Marionette	INFO	Listening on port 57287
+1605052693827	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+1605052852189	geckodriver	INFO	Listening on 127.0.0.1:57493
+1605052855280	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilezDoMIv"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605052856783	Marionette	INFO	Listening on port 57501
+1605052856826	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605052967190	geckodriver	INFO	Listening on 127.0.0.1:57582
+1605052970281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileWWKwPO"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605052971843	Marionette	INFO	Listening on port 57590
+1605052972335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: system/security
+http://requirejs.org/docs/errors.html#scripterror
+1605054234142	geckodriver	INFO	Listening on 127.0.0.1:57758
+1605054237214	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileLCmvkY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605054238738	Marionette	INFO	Listening on port 57766
+1605054239263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605054287637	geckodriver	INFO	Listening on 127.0.0.1:57833
+1605054290725	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilezR4IJC"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605054292144	Marionette	INFO	Listening on port 57841
+1605054292258	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605054294573, line 13: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605054294573, line 13: ReferenceError: $ is not defined
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/app/util/util.js?bust=1605054296302, line 13: ReferenceError: $ is not defined
+1605054363139	geckodriver	INFO	Listening on 127.0.0.1:57931
+1605054366222	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileD3AKJX"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605054367635	Marionette	INFO	Listening on port 57939
+1605054367774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605055034143	geckodriver	INFO	Listening on 127.0.0.1:58054
+1605055037247	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileZU52T4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605055038646	Marionette	INFO	Listening on port 58062
+1605055038795	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605055161665	geckodriver	INFO	Listening on 127.0.0.1:58143
+1605055164739	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilef5s3F5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605055166225	Marionette	INFO	Listening on port 58151
+1605055166294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605055248146	geckodriver	INFO	Listening on 127.0.0.1:58217
+1605055251246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofile4i5aP6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605055252706	Marionette	INFO	Listening on port 58225
+1605055252785	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: language/language
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/http
+http://requirejs.org/docs/errors.html#scripterror
+SourceActor threw an exception: [Exception... "Failed to open input source 'file:///'"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: mainThreadFetch/< :: line 668"  data: yes]
+Stack: mainThreadFetch/<@resource://devtools/shared/DevToolsUtils.js:668:15
+mainThreadFetch@resource://devtools/shared/DevToolsUtils.js:516:10
+_fetchURLContents@resource://devtools/server/actors/utils/TabSources.js:440:22
+urlContents@resource://devtools/server/actors/utils/TabSources.js:407:17
+_resurrectSource@resource://devtools/server/actors/thread.js:2105:69
+addAllSources@resource://devtools/server/actors/thread.js:1500:14
+onSources@resource://devtools/server/actors/thread.js:1506:10
+onPacket@resource://devtools/server/devtools-server-connection.js:379:58
+receiveMessage@resource://devtools/shared/transport/child-transport.js:66:16
+Line: 668, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 668: NS_ERROR_FAILURE: Failed to open input source 'file:///'
+1605055510155	geckodriver	INFO	Listening on 127.0.0.1:58308
+1605055513244	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileX7qNr2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605055514658	Marionette	INFO	Listening on port 58316
+1605055514789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605055805157	geckodriver	INFO	Listening on 127.0.0.1:58397
+1605055808237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofile9ueMlu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605055809607	Marionette	INFO	Listening on port 58405
+1605055809788	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605056004172	geckodriver	INFO	Listening on 127.0.0.1:58490
+1605056007263	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileVa8Y0w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605056008675	Marionette	INFO	Listening on port 58498
+1605056008824	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: system/security
+http://requirejs.org/docs/errors.html#scripterror
+1605056167674	geckodriver	INFO	Listening on 127.0.0.1:58582
+1605056170779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileN0OVG4"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605056172179	Marionette	INFO	Listening on port 58590
+1605056172331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://cdn.adpushup.com/40792/adpushup.js, line 1: TypeError: n is undefined
+JavaScript error: https://www.geeksforgeeks.org/find_elements_by_class_name-driver-method-selenium-python/ line 1 > injectedScript, line 1: TypeError: e is not a function
+1605056315694	geckodriver	INFO	Listening on 127.0.0.1:58833
+1605056318770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileYjx2Sq"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605056320250	Marionette	INFO	Listening on port 58841
+1605056320322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605056416192	geckodriver	INFO	Listening on 127.0.0.1:58919
+1605056419279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileCdIJ9Z"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605056420706	Marionette	INFO	Listening on port 58927
+1605056420826	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: language/language
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/message
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/http
+http://requirejs.org/docs/errors.html#scripterror
+1605056726708	geckodriver	INFO	Listening on 127.0.0.1:59030
+1605056729801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilecVASeL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605056731184	Marionette	INFO	Listening on port 59038
+1605056731358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605056777201	geckodriver	INFO	Listening on 127.0.0.1:59107
+1605056780271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilempJg36"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605056781824	Marionette	INFO	Listening on port 59115
+1605056782326	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605057118200	geckodriver	INFO	Listening on 127.0.0.1:59206
+1605057121296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileDiBe7v"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605057122692	Marionette	INFO	Listening on port 59214
+1605057122857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605057166713	geckodriver	INFO	Listening on 127.0.0.1:59282
+1605057169781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofile0NZ8Oo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605057171205	Marionette	INFO	Listening on port 59290
+1605057171331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: main-login
+http://requirejs.org/docs/errors.html#scripterror
+1605057228200	geckodriver	INFO	Listening on 127.0.0.1:59363
+1605057231279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileXlJiLz"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605057232682	Marionette	INFO	Listening on port 59372
+1605057232833	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: main-login
+http://requirejs.org/docs/errors.html#scripterror
+1605057253210	geckodriver	INFO	Listening on 127.0.0.1:59436
+1605057256296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileAGHMX6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605057257714	Marionette	INFO	Listening on port 59444
+1605057257841	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: system/security
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2726: TypeError: event.target.closest is not a function
+1605057545710	geckodriver	INFO	Listening on 127.0.0.1:59535
+1605057548786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileLTIDop"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605057550175	Marionette	INFO	Listening on port 59543
+1605057550342	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605057589703	geckodriver	INFO	Listening on 127.0.0.1:59606
+1605057592785	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilePqeizw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605057594169	Marionette	INFO	Listening on port 59614
+1605057594345	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: language/language
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/http
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/message
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/util
+http://requirejs.org/docs/errors.html#scripterror
+1605057668705	geckodriver	INFO	Listening on 127.0.0.1:59683
+1605057671799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileyMPAFw"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605057673218	Marionette	INFO	Listening on port 59691
+1605057673353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: config-login
+http://requirejs.org/docs/errors.html#scripterror
+1605057981709	geckodriver	INFO	Listening on 127.0.0.1:59791
+1605057984801	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileQqZaA2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605057986254	Marionette	INFO	Listening on port 59799
+1605057986349	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: system/security
+http://requirejs.org/docs/errors.html#scripterror
+1605058077201	geckodriver	INFO	Listening on 127.0.0.1:59898
+1605058080305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilempBntB"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605058081737	Marionette	INFO	Listening on port 59906
+1605058081867	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: main-login
+http://requirejs.org/docs/errors.html#scripterror
+1605058106699	geckodriver	INFO	Listening on 127.0.0.1:59975
+1605058109760	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilexvpuP2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605058111144	Marionette	INFO	Listening on port 59983
+1605058111313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: system/security
+http://requirejs.org/docs/errors.html#scripterror
+1605058139697	geckodriver	INFO	Listening on 127.0.0.1:60058
+1605058142797	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileXX8jyu"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605058144220	Marionette	INFO	Listening on port 60066
+1605058144335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/http
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/message
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: language/language
+http://requirejs.org/docs/errors.html#scripterror
+1605058176200	geckodriver	INFO	Listening on 127.0.0.1:60135
+1605058179719	geckodriver	INFO	Listening on 127.0.0.1:60144
+1605058182782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileCk5Mr9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605058184222	Marionette	INFO	Listening on port 60152
+1605058184334	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: resource://devtools/client/shared/demangle.js, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+1605059002720	geckodriver	INFO	Listening on 127.0.0.1:60293
+1605059005796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileEE313w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605059007247	Marionette	INFO	Listening on port 60301
+1605059007340	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: config-login
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: resource:///modules/UrlbarInput.jsm, line 2726: TypeError: event.target.closest is not a function
+1605059029156	Marionette	INFO	Stopped listening on port 60301
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605059046214	geckodriver	INFO	Listening on 127.0.0.1:60370
+1605059049286	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilerc4wmZ"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605059050683	Marionette	INFO	Listening on port 60378
+1605059050832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: main-login
+http://requirejs.org/docs/errors.html#scripterror
+1605059102716	geckodriver	INFO	Listening on 127.0.0.1:60450
+1605059105804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileSvJEjS"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605059107339	Marionette	INFO	Listening on port 60458
+1605059107368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605059390222	geckodriver	INFO	Listening on 127.0.0.1:60544
+1605059393321	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofile3FCyJ5"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605059394758	Marionette	INFO	Listening on port 60552
+1605059394879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605060309732	geckodriver	INFO	Listening on 127.0.0.1:60735
+1605060312786	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilejaRMVM"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605060314248	Marionette	INFO	Listening on port 60743
+1605060314344	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605060414223	geckodriver	INFO	Listening on 127.0.0.1:60818
+1605060417316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilenjnFAW"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605060418746	Marionette	INFO	Listening on port 60826
+1605060418879	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605060478720	geckodriver	INFO	Listening on 127.0.0.1:60893
+1605060481796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilee4MIbH"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605060483214	Marionette	INFO	Listening on port 60901
+1605060483348	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605060662217	geckodriver	INFO	Listening on 127.0.0.1:60999
+1605060665316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilefcQ4v6"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605060666779	Marionette	INFO	Listening on port 61007
+1605060666852	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: system/security
+http://requirejs.org/docs/errors.html#scripterror
+1605060774218	geckodriver	INFO	Listening on 127.0.0.1:61075
+1605060777294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilevbL3PN"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605060778825	Marionette	INFO	Listening on port 61083
+1605060779339	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+1605060821714	geckodriver	INFO	Listening on 127.0.0.1:61171
+1605060824782	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileCjD5S8"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605060826346	Marionette	INFO	Listening on port 61179
+1605060826824	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605060901720	geckodriver	INFO	Listening on 127.0.0.1:61247
+1605060904795	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileidv8CF"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605060906189	Marionette	INFO	Listening on port 61255
+1605060906351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605060987232	geckodriver	INFO	Listening on 127.0.0.1:61343
+1605060990307	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofiletvQNny"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605060991686	Marionette	INFO	Listening on port 61353
+1605060991864	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+1605061045220	geckodriver	INFO	Listening on 127.0.0.1:61423
+1605061048319	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileINFunY"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605061049735	Marionette	INFO	Listening on port 61431
+1605061049863	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: main-login
+http://requirejs.org/docs/errors.html#scripterror
+1605061194730	geckodriver	INFO	Listening on 127.0.0.1:61508
+1605061197777	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileADhVaD"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605061199215	Marionette	INFO	Listening on port 61516
+1605061199323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/message
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/util
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: core/class
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: util/http
+http://requirejs.org/docs/errors.html#scripterror
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: language/language
+http://requirejs.org/docs/errors.html#scripterror
+1605061411217	geckodriver	INFO	Listening on 127.0.0.1:61604
+1605061414294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileFsBtlA"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605061415775	Marionette	INFO	Listening on port 61612
+1605061415840	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 2: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/ line 1 > injectedScript, line 33: ReferenceError: $ is not defined
+JavaScript error: https://www.strikerdot.com/js/require.js, line 8: Error: Script error for: config-login
+http://requirejs.org/docs/errors.html#scripterror
+1605061507223	geckodriver	INFO	Listening on 127.0.0.1:61696
+1605061510306	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofilentOg4f"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605061511782	Marionette	INFO	Listening on port 61704
+1605061511857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605061518290	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:228:19
+TimedPromise@chrome://marionette/content/sync.js:213:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:418:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1605061532373	Marionette	INFO	Stopped listening on port 61704
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1605061534216	geckodriver	INFO	Listening on 127.0.0.1:61772
+1605061537298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofiles3ZxWL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605061538731	Marionette	INFO	Listening on port 61780
+1605061538857	Marionette	WARN	TLS certificate errors will be ignored for this session
+1605061567715	geckodriver	INFO	Listening on 127.0.0.1:61847
+1605061570798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Leif\\AppData\\Local\\Temp\\rust_mozprofileBzTq0w"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1605061572266	Marionette	INFO	Listening on port 61855
+1605061572354	Marionette	WARN	TLS certificate errors will be ignored for this session

@@ -148,10 +148,10 @@ class Login(Action):
 
 # Scrape League and Game Data .
 # This does not include bets
-class ScrapeLeaguesAndGames(Action):
+class ScrapeLeaguesAndGamesLIVE(Action):
     
     def __init__(self, handler):
-        super(ScrapeLeaguesAndGames, self).__init__('ScrapeLeaguesAndGames', handler)
+        super(ScrapeLeaguesAndGamesLIVE, self).__init__('ScrapeLeaguesAndGamesLIVE', handler)
         self.SetAbsPaths()
         self.data = {}
     
@@ -316,18 +316,110 @@ class ScrapeLeaguesAndGames(Action):
         return data
     
 class ClickGames(Action):
-    def __init__(self, game):
+    def __init__(self, handler):
         super(ClickGame, self).__init__('ClickGame', handler)
         
     
     def invoke(self):
-        handler.click()
-        
+        handler.click()      
+
 
 
 
 
 class ScrapeLeaguesAndGamesStraight(Action):
-    def __init__(self): pass
+    def __init__(self, handler):
+        super(ScrapeLeaguesAndGamesStraight, self).__init__('ScrapeLeaguesAndGamesStraight', handler)
+        self.data = {}
+        
+    # all the scraping happens here
+    def invoke(self):
+        
+        # highest container location for straight bets
+        self.e_lines_xpath = '//div[@class="page-lines"]'
+        
+        e_page_lines = self.TRY_FINDING_ELEMENT(self.e_lines_xpath, True)
     
-    def invoke(self): pass
+        
+        # A LIST OF GAMES IN TAG FORM
+        e_game_tags = e_page_lines.find_elements_by_xpath('.//div[@class="GAME ODD-A TYPE-Straight"]') 
+      
+        print ("There are %d games " % (len(e_game_tags)))
+      
+        e_prev_date = None
+        for tag in e_game_tags:
+            
+            # Works only because the first tag has a 'header-c' class 
+            try:
+                e_date = tag.find_element_by_xpath('.//div[@class="header-c"]')
+                e_prev_date = e_date
+                date = e_date.find_element_by_xpath('.//span[@data-field="min-date"]').text
+                self.data[date] = []                
+            except:
+                e_date = e_prev_date
+
+            print ("DATE: ", date)
+            
+            
+            # Get the time and the list of lines in tag form
+            e_game_time = tag.find_element_by_xpath('.//div[@class="header-d"]')
+            e_game_lines_container = tag.find_element_by_xpath('.//div[@class="lines"]')
+            
+            time = e_game_time.find_element_by_xpath('.//span[@data-field="min-time"]')
+            broadcastChannel = e_game_time.find_element_by_xpath('.//span[@data-field="comments"]')
+            
+            e_team1_line = e_game_lines_container.find_element_by_xpath('.//div[@class="line team-1"]')
+            e_team1_line_groups = e_team1_line.find_elements_by_class_name("group")
+                   
+            e_team2_line = e_game_lines_container.find_element_by_xpath('.//div[@class="line team-2"]')
+            e_team2_line_groups = e_team2_line.find_elements_by_class_name("group")
+            
+            # Group 1, 2, 3, 4, 5, 
+           
+            print ()
+            team1_data = self.ScrapeTeamData(e_team1_line_groups)
+            team2_data = self.ScrapeTeamData(e_team2_line_groups)
+            print ()
+            
+            # add all raw data to dictionary
+            self.data[date] += [[broadcastChannel, time, team1_data, team2_data]]
+            
+            #data[date][game_name] = []
+            
+        return self.data
+            
+        
+
+    def ScrapeTeamData(self, e_team):
+        
+        # e_team is a list of divs with the class "group"
+        # [name_group, spread group, ML group, totals group]
+        # list.pop(0) removes the first element in the list and stores in the left sided variable
+        e_name = e_team.pop(0)
+        e_spread = e_team.pop(0)
+        e_money_line = e_team.pop(0)
+        e_total_points = e_team.pop(0)
+        e_team_total = e_team.pop(0)
+        
+        try:
+            name = e_name.find_element_by_xpath('.//span[@data-field="first-team"]').text
+        except:
+            name = e_name.find_element_by_xpath('.//span[@data-field="second-team"]').text
+        
+        spread = e_spread.find_element_by_xpath('.//span[@data-field="line"]').text
+        
+        money_line = e_money_line.find_element_by_xpath('.//span[@data-field="line"]').text
+        
+        try:
+            total_points = e_total_points.find_element_by_xpath('.//span[@data-field="only-line"]').text
+        except:
+            total_points = None
+        
+            
+        print ("TEAM NAME:  ", name)
+        print ("SPREAD:  ", spread)        
+        print ("ML:  ", money_line)
+        print("TOTAL POINTS:  ", total_points)
+        print(" ")
+        
+        return [name, spread, money_line, total_points]
